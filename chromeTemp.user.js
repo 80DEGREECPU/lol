@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name        MyAgar
-// @namespace   MyAgar
+// @name        AgarRTHKtool++
+// @namespace   AgarRTHKtool++
 // @author      翠如bb HK Golden
 // @include     http://agar.io/
-// @version     1
+// @version     6.89
 // @grant       none
 // ==/UserScript==
 $.getScript( "https://drive.google.com/uc?export=download&id=0Bwj_YCavPEMpVlhYTmVKTjZqZzA" )
